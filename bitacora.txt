@@ -9,4 +9,5 @@ Diario de los avances
     11/04   Abro a las 10 de la noche, comienzo en la clase 8 de Github.
             Cree el primer html y css.
             Se convirtio el primer texto en una bitacora.
+            En la clase 14 explica graficamente el flujo entre los repositorios y los comandos usados.
             Segui hasta la clase  
