@@ -10,4 +10,5 @@ Diario de los avances
             Cree el primer html y css.
             Se convirtio el primer texto en una bitacora.
             En la clase 14 explica graficamente el flujo entre los repositorios y los comandos usados.
-            Segui hasta la clase  
+            Segui hasta la clase 15 a la medianoche.
+
