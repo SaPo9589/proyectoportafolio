@@ -7,3 +7,6 @@ Antes del lunes 17/04 tengo que haber terminado la pagina web.
 
 Diario de los avances
     11/04   Abro a las 10 de la noche, comienzo en la clase 8 de Github.
+            Cree el primer html y css.
+            Se convirtio el primer texto en una bitacora.
+            Segui hasta la clase  
