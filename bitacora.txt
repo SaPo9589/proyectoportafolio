@@ -17,6 +17,13 @@ Diario de los avances
             Encuentro app.moqups.com y se ve amigable como para planificar el web design.
             A las 23:30 lo dejo por puro sueño.
             Tengo que pensar con que llenar mi portafolio.
+    
+    17/04   Tuve un burnout, no sabia como definir lo que quiero mostrar en mi web.
+            Volvi a abrir la clase 17, para aprender como subir mi web a github.
+            Luego debo aprender a manejar Figma y definir cualquier cosa para empezar un proyecto.
+                         
+
+
 
 
 
